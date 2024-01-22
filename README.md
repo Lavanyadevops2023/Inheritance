@@ -1,0 +1,2 @@
+# Inheritance
+create inheritance class
